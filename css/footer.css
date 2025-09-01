@@ -7,23 +7,18 @@ footer {
   color: #094067;
   text-decoration: none;
 }
-
 .footer-four p {
   color: #5f6c7b;
 }
-
 .footer-four li {
   list-style-type: none;
 }
-
 .footer-four li a {
   color: #5f6c7b;
 }
-
 .footer-four-item {
   margin-bottom: 40px;
 }
-
 .footer-four-item h4 {
   margin-bottom: 16px;
   color: #094067;
@@ -39,18 +34,12 @@ footer {
     padding: 80px 0;
   }
   .footer-four {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
   .footer-four-item {
-    -ms-flex-preferred-size: 22%;
-        flex-basis: 22%;
+    flex-basis: 22%;
   }
   .footer-four-item h4 {
     margin-bottom: 24px;
@@ -63,5 +52,4 @@ footer {
     margin-top: 80px;
     text-align: center;
   }
-}
-/*# sourceMappingURL=footer.css.map */
+}/*# sourceMappingURL=footer.css.map */

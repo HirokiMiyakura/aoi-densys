@@ -24,9 +24,15 @@
 </head>
 <body>
 <header class="header">
-  <h1 class="header-logo">
-    <a style="padding: 20px" href="<?php echo home_url(); ?>">
+  <!-- <h1 class="header-logo">
+    <a href="<?php echo home_url(); ?>">
+      <img class="logo" alt="Aoi電機システム" src="<?php echo get_template_directory_uri(); ?>/img/header/newlogo.png"/>株式会社 Aoi電機システム
+    </a>
+  </h1> -->
+  <h1>
+    <a class="flex" href="<?php echo home_url(); ?>">
       <img class="logo" alt="Aoi電機システム" src="<?php echo get_template_directory_uri(); ?>/img/header/newlogo.png"/>
+      <span>株式会社 Aoi電機システム</span>
     </a>
   </h1>
   <button type="button" id="header-btn" class="header-btn" title=""><span></span></button>
@@ -62,9 +68,9 @@
     <h2 class="main-description">ブログ</h2>
   </div>
 <?php elseif ( is_page('company') ) : ?>
-  <div class="main-image company">
+  <!-- <div class="main-image company">
     <h2 class="main-description">会社情報です。<br class="pc">所在地は群馬県藤岡市です。</h2>
-  </div>
+  </div> -->
 <?php elseif ( is_page('contact') ) : ?>
   <div class="main-image contact">
     <h2 class="main-description">お問い合わせはメールで承っております。<br class="pc">お気軽に御相談下さいませ。</h2>
