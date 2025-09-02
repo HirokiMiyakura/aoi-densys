@@ -4,7 +4,7 @@
 		<h1 class="service-ttl">会社概要<span>ABOUT</span></h1>
 		<div class="half-inner">
 			<table class="normal-table">
-				<tr><th>屋号</th><td>株式会社 Aoi電機システム</td></tr>
+				<tr><th>商号</th><td>株式会社 Aoi電機システム</td></tr>
 				<tr><th>所在地</th><td>〒375-0024　群馬県藤岡市藤岡812-3</td></tr>
 				<tr><th>設立</th><td>2025年9月2日</td></tr>
 				<tr><th>沿革</th><td>
@@ -16,7 +16,7 @@
 				</td></tr>
 				<tr><th>資本金</th><td>3,000,000円</td></tr>
 				<tr><th>取引銀行</th><td>しののめ信用金庫</td></tr>
-				<tr><th>代表</th><td>掛川　悠葵（かけがわ　ゆうき）</td></tr>
+				<tr><th>代表取締役</th><td>掛川　悠葵（かけがわ　ゆうき）</td></tr>
 				<tr><th>事業内容</th><td>電気システムエンジニア事業</td></tr>
 			</table>
 		</div>
